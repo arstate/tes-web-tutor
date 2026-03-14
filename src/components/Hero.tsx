@@ -8,9 +8,9 @@ export default function Hero() {
       <div className="absolute inset-0 z-0">
         <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-[#F8F9FA] dark:to-[#0A0A0A] z-10" />
         <img 
-          src="https://images.unsplash.com/photo-1511285560929-80b456fea0bc?q=80&w=2938&auto=format&fit=crop" 
+          src="https://github.com/user-attachments/assets/47a93187-2937-4d62-b5f6-167c5461dec2" 
           alt="Wedding Photography" 
-          className="w-full h-full object-cover opacity-40 dark:opacity-30 blur-sm scale-105"
+          className="w-full h-full object-cover opacity-40 dark:opacity-30 scale-105"
         />
         {/* Glowing Orbs */}
         <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-neon-pink/30 dark:bg-neon-pink/20 rounded-full blur-[120px] mix-blend-screen" />
