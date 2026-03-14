@@ -35,9 +35,8 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, delay: 0.3, ease: [0.22, 1, 0.36, 1] }}
         >
-          CAPTURING <br />
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-neon-pink via-sunset-orange to-electric-blue">
-            MASTERPIECES
+            BACHTIAR PORTOFOLIO
           </span>
         </motion.h1>
 
